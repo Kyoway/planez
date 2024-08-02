@@ -245,7 +245,7 @@ body.night {
 }
 
 /* day-night button */
-.theme-toggle {
+#theme-toggle {
   position: fixed;
   top: 20px;
   left: 50%;
