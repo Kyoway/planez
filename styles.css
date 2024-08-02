@@ -270,7 +270,7 @@ body.night {
 }
 
 .theme-toggle .icon {
-  position: absolute;
+  position: fixed;
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
